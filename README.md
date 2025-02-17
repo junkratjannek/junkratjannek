@@ -6,7 +6,7 @@ Besides working and studying, I love all kinds of sports, from tennis 🎾, runn
 
 Technologies I'm interested in: 
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 Find out more about me at << MyPersonalWebsite >>
 

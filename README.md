@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a 21-year-old Computer Science 💻 graduate student 👨‍🎓, persuing my master's degree at the Technical University 🏫 (TU Berlin) in Berlin (🇩🇪 Germany) and working part time as a working student at Hitachi Rail 🚄 (Hitachi Rail GTS Deutschland GmbH).
+I am a 22-year-old Computer Science 💻 graduate student 👨‍🎓, persuing my master's degree at the Technical University 🏫 (TU Berlin) in Berlin (🇩🇪 Germany) and working part time as a working student at Hitachi Rail 🚄 (Hitachi Rail GTS Deutschland GmbH).
 
 Besides working and studying, I love all kinds of sports, from tennis 🎾, running 🏃‍♂️, and skiing ⛷️ to biking 🚴‍♂️🚵‍♂️. 
 
